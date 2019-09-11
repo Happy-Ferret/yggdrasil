@@ -1,3 +1,4 @@
+name: Deploy to GitHub Releases
 on: release
 name: Handle Release
 jobs:
