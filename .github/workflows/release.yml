@@ -1,6 +1,5 @@
 name: Deploy to GitHub Releases
 on: release
-name: Handle Release
 jobs:
   upload:
     name: Upload Artifacts
